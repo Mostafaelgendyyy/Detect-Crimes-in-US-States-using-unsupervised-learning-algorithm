@@ -9,6 +9,6 @@
 - Number of clusters (k) will be provided from the user as an input.
 - Initial centroid are chosen randomly.
 - i use use Manhattan distance as your distance function.
-**- You should detect outlier data (if exists).**
+- **You should detect outlier data (if exists).**
 -The final output of your program should show k lists of states and show outlier product’s records.
 
